@@ -47,3 +47,5 @@ elif (choice1 == "right"):
   print("This is a den for a wild mammal, you were killed by it. Game over!")
 else:
   print("You did not choose any option so you are kicked out. Game over!")
+
+
